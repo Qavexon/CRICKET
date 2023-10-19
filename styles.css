@@ -1,0 +1,58 @@
+body {
+    margin: px;
+}
+
+.nav-container {
+    position: sticky;
+    z-index: 3;
+    top: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 12vh;
+    background-color: green;
+}
+
+.navbar-logo {
+    justify-self: start;
+    margin-left: 18px;
+    color: white;
+    margin-top: 4vh;
+    cursor: pointer;
+}
+
+.vercarrito {
+    font-size: 30px;
+    margin-right: 18px;
+    margin-top: 3.5vh;
+    cursor: pointer;
+}
+
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-image: url(/Imágenes/shampoo\ sólido\ -\ ppal.jpg);
+}
+
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner h1 {
+    margin: 0;
+    color:rgb(52, 83, 6);
+    text-shadow: 1px 1px 3px rgb(180, 201, 187);
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.banner p {
+    font-size:40px;
+    color:hsl(from color h s l);
+    opacity: 0.7;
+    text-shadow: 1px 1px 3px rgb(157, 192, 157);
+}

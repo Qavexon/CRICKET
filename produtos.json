@@ -1,0 +1,54 @@
+[
+    {
+        "id" :1,
+        "nombre": "Menta",
+        "precio": 1000,
+        "img": ""
+    }
+    {   
+        "id" :2,
+        "nombre": "Manzanilla",
+        "precio": 1000,
+        "img": ""
+    }
+
+    {   "id" :3,
+        "nombre": "Cítricos",
+        "precio": 800,
+        "img": ""
+    }
+    {
+        "id" :4,
+        "nombre": "Menta",
+        "precio": 1000,
+        "img": ""
+    }
+    
+    {
+        "id" :5,
+        "nombre": "Neroli",
+        "precio": 900,
+        "img": ""
+    }
+    
+    {
+        "id" :6,
+        "nombre": "Eucaliptus",
+        "precio": 800,
+        "img": ""
+    }
+    
+    {
+        "id" :7,
+        "nombre": "Lavanda",
+        "precio": 1000,
+        "img": ""
+    }
+
+    {
+        "id" :8,
+        "nombre": "Fresias",
+        "precio": 1100,
+        "img": ""
+    }
+]
